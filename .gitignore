@@ -1,0 +1,13 @@
+# Python
+*.pyc
+*~
+__pycache__
+
+# Env
+.env
+myvenv/
+venv/
+
+# Static folder at project root
+/static/
+
